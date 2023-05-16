@@ -6,6 +6,7 @@ export default component$(() => {
     <>
       <section>
         <h1 class="text-red-500">Hello World</h1>
+        <a href="/_utils/banner-viewer">Banner Viwer</a>
       </section>
     </>
   );
